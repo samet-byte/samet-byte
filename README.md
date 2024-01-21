@@ -1,6 +1,9 @@
-### Hi there 👋
+![Hi there!](https://sdk.bitmoji.com/render/panel/20086107-100025018093_7-s5-v1.png?transparent=1&palette=3&scale=0)
+
 
 <!--
+### Hi there 👋
+
 **samet-byte/samet-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
