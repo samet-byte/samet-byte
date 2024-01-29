@@ -1,5 +1,7 @@
 ![Hi there!](https://sdk.bitmoji.com/render/panel/20086107-100025018093_7-s5-v1.png?transparent=1&palette=3&scale=0)
 
+![](https://komarev.com/ghpvc/?username=samet-byte&color=green)
+
 
 <!--
 ### Hi there 👋
